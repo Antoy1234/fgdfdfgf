@@ -1,0 +1,62 @@
+.card {
+        border-radius: 12px;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+.board{
+    background-color: rgb(109, 73, 73);
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    width: 50rem;
+    height: 75rem;
+    margin: auto;
+}
+
+.header{
+    background-color: rgb(85, 24, 24);
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.editmenu{
+    background-color: black;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+.bar{
+    background-color: rgb(75, 68, 68);
+    width: 40rem;
+    height: 5rem;
+    font-size: 1cm;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+.button{
+        background-color: rgb(19, 140, 177);
+        height: 5rem;
+        width: 10rem;
+        border-radius: 12px;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+        font-size: 1cm;
+        text-align: center;
+}
+
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: #4b4b4b;
+}
+.editbtnsdiv{
+        background-color: rgb(56, 49, 49);
+        width: 20rem;
+        height: 5rem;
+        font-size: 1cm;
+        border-radius: 12px;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
